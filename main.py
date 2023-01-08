@@ -4,7 +4,6 @@ from aiohttp import ClientSession
 from bs4 import BeautifulSoup
 import webbrowser
 
-sdsdsdsd
 class Chapter:
     def __init__(self, title, link):
         self.title = title
